@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(126, 126, 126);
+}
+#header{
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: -5px;
+}
+
+#info1{
+    background-color: rgb(212, 7, 7);
+    border-radius: 6cap;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 10px;
+    color: rgba(0, 0, 0, 0.966);
+}
+#campoTexto1{
+    width: 230px;
+    padding-top: 5px;
+    background-color: gray;
+    color: gold;
+    text-align: center;
+}
+#campoTexto2{
+    width: 230px;
+    padding: 5px;
+    background-color: gray;
+    color: gold;
+    text-align: center;
+}
+#presultado{
+font-family: arial;
+font-size: 30px;
+text-align: center;
+}
+button{
+    width: 190px;
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+}
